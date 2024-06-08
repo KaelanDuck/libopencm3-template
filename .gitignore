@@ -1,4 +1,5 @@
-bin/
+build/
+.vscode/
 *.elf
 *.bin
 generated.*.ld
